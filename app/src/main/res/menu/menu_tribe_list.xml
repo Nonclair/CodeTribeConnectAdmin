@@ -3,8 +3,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.mlab.nonhlanhla.codetribeconnectadmin.TribeList">
     <item
-        android:id="@+id/action_settings"
-        android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
+
+        android:title="Logout"
+        android:id="@+id/btnLogout"
+        android:orderInCategory="50"
+        app:showAsAction="never"
+        />
+    <item
+
+        android:title="About"
+        android:id="@+id/btnAbout"
+        android:orderInCategory="50"
+        app:showAsAction="never"
+        />
+
 </menu>
