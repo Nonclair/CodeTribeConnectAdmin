@@ -24,10 +24,14 @@
     <string name="btn_back"><![CDATA[<< Back]]></string>
     <string name="hint_new_email">New Email</string>
     <string name="btn_change">Change</string>
+    <string name="navigation_drawer_open">Open</string>
     <string name="btn_send">Send</string>
     <string name="btn_remove">Remove</string>
     <string name="btn_sign_out">Sign Out</string>
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="prompt_password">Enter your password</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="tab_soweto">Soweto</string>
+    <string name="tab_tembisa">Tembisa</string>
+    <string name="tab_pretoria">Pretoria</string>
 </resources>
